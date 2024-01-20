@@ -24,6 +24,12 @@ _A list of my commonly used Git commands_
 | `git init` | Initialize a local Git repository |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
 
+### Changing User Profile
+| Command | Description |
+| ------- | ----------- |
+| `git config --global user.name "user-name"` | Changing user-name |
+|`git config --global user.email "YOUR_EMAIL"`| Changing user-email |
+
 ### Basic Snapshotting
 
 | Command | Description |
